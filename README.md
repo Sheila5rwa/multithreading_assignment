@@ -15,8 +15,8 @@ java phase3_callable.Main
 ```
 
 ## Results
-| Phase | Final total | Time (ms) | Notes |
-|---|---|---|---|
-| Phase 1 - no sync | _fill in_ | _fill in_ | total != 100,000 proves the race condition |
-| Phase 2 - synchronized | _fill in_ | _fill in_ | always exactly 100,000 |
-| Phase 3 - Callable + Futures | _fill in_ | _fill in_ | successes: _ / failures: _ |
+| Phase | Final total | Time (ms) | Notes                                      |
+|---|-------------|-----------|--------------------------------------------|
+| Phase 1 - no sync | _fill in_   | _fill in_ | total != 100,000 proves the race condition |
+| Phase 2 - synchronized | _fill in_   | _fill in_ | always exactly 100,000                     |
+| Phase 3 - Callable + Futures | _100000     | _105_     | successes: _99933 / failures: _67          |
