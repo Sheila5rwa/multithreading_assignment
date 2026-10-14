@@ -5,7 +5,7 @@ Bank transfer simulation: 10 accounts x 10,000 = 100,000 total, 100,000 random t
 ## Team
 | Member | Branch | Package | Phases |
 |---|---|---|---|
-| Larissa Iriza | `larissa-runnable` | `phase1_race`, `phase2_sync` | 1-3: Runnable, race condition, synchronized + timing |
+| Delucie Rurangwa | `delucie-runnable` | `phase1_race`, `phase2_sync` | 1-3: Runnable, race condition, synchronized + timing |
 | Rwakunda Kaliza Sheila Milena | `sheila-callable` | `phase3_callable` | 4-5: Callable, Futures, success/failure counts |
 
 ## How to run (from the `src` folder)
